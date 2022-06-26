@@ -1,0 +1,6 @@
+dotenv: .env   #when you give your private key :-mwthod 2
+wallets:
+  from_key: ${PRIVATE_KEY}  #method 2 advance
+  
+
+        
